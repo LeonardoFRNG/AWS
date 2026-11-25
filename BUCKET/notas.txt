@@ -1,0 +1,2 @@
+Estas son mis notas de AWS S3
+Estoy aprendiendo el ciclo de vida de un bucket
